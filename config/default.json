@@ -1,0 +1,13 @@
+{
+  "port": 3100,
+  "mongodb": {
+    "instances": [
+      {
+        "host": "admin:ceal@ds033915.mlab.com",
+        "port": 33915
+      }
+    ],
+    "db": "ceal",
+    "options": {}
+  }
+}
