@@ -1,2 +1,6 @@
-# nodejs-boilerplate
-node js starter code
+# nodejs backend code
+
+
+Run 
+npm install
+npm start
